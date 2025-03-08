@@ -1,0 +1,75 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #fff;
+    margin: 0;
+    padding: 0;
+}
+
+.header {
+    background-color: #007bff;
+    color: #fff;
+    text-align: center;
+    padding: 10px 0;
+}
+
+.header ul {
+    list-style: none;
+    padding: 0;
+}
+
+.header ul li {
+    display: inline;
+    margin: 0 10px;
+}
+
+.header ul li a {
+    color: #fff;
+    text-decoration: none;
+}
+
+.services {
+    text-align: center;
+    padding: 20px;
+}
+
+.service-box {
+    display: inline-block;
+    border: 1px solid #ddd;
+    padding: 10px;
+    margin: 10px;
+    width: 200px;
+    background-color: #f9f9f9;
+}
+
+.service-box button {
+    background-color: #007bff;
+    color: #fff;
+    border: none;
+    padding: 5px 10px;
+    cursor: pointer;
+}
+
+.add-funds {
+    text-align: center;
+    padding: 20px;
+}
+
+.add-funds input {
+    margin: 5px;
+    padding: 5px;
+}
+
+.add-funds button {
+    background-color: #007bff;
+    color: #fff;
+    border: none;
+    padding: 5px 10px;
+    cursor: pointer;
+}
+
+.footer {
+    background-color: #f1f1f1;
+    text-align: center;
+    padding: 10px 0;
+    margin-top: 20px;
+}
